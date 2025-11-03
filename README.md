@@ -17,11 +17,11 @@ I'm a UX designer passionate about solving complex problems through thoughtful d
 
 ## 🛠️ Tools & Skills
 
-**Design:** Figma, Sketch, Adobe Creative Suite  
+ - [ ] **Design:** Figma, Sketch, Adobe Creative Suite  
 **Prototyping:** Figma, Protopie, Framer  
 **Research:** UserTesting, Maze, Optimal Workshop  
-**Collaboration:** Miro, FigJam, Notion, Jira
-
+**Collaboration:** Miro, FigJam, Github
+<!--
 ## 💼 Featured Projects
 
 ### [Project Name]
@@ -39,6 +39,6 @@ I'm a UX designer passionate about solving complex problems through thoughtful d
 - **LinkedIn:** [linkedin.com/in/yourprofile]
 - **Email:** [your.email@example.com]
 
----
+-->
 
 *Currently exploring opportunities in [industry/focus area]. Always happy to chat about design, collaboration, or exciting projects!*
